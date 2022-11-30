@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("PostWork Session 1 Listo");
+        System.out.println("PostWork Session 1 L");
     }
 }
